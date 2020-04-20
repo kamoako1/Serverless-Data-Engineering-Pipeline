@@ -1,6 +1,7 @@
 # Individual Project 4: Serverless Data Engineering Pipeline
 
 This project includes reproducing the architecture serverless data engineering cycle with the following functionalities:
+
          - Creating SQS called producer
          - Creating a table called Fang with Dynamo DB
          - Creating an AWS Lambda Function
